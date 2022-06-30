@@ -29,7 +29,7 @@ Tecnoligas que se abordan en este proyecto:
 ### *Ingrid Kaufman
 ### *Lescano Marcos
 ### *Miguel Ibarra
-probando
+### *probando
 
 
 <img align="left" width="" height="150" src="ispc.jpeg">
