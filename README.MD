@@ -28,6 +28,7 @@ Tecnoligas que se abordan en este proyecto:
 ### *Gustavo Herrera
 ### *Ingrid Kaufman
 ### *Lescano Marcos
+### *Miguel Ibarra
 
 
 <img align="left" width="" height="150" src="ispc.jpeg">
